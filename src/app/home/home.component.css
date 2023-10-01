@@ -1,0 +1,45 @@
+.home {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 5px;
+  }
+  
+  h2 {
+    color: #666;
+  }
+  h5 {
+    text-align: center;
+    font-size: medium;
+    color: #666;
+  }
+  
+  .intro, .skills, .experience, .contact {
+    margin-bottom: 20px;
+  }
+  
+  .skills ul, .contact ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills li, .contact li {
+    margin-bottom: 5px;
+  }
+  
+  .contact a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
